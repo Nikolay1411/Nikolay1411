@@ -1,0 +1,48 @@
+@media screen and (max-width:900px) {
+    .kartinki1{
+        flex-direction: column;
+        margin-right: 500px;
+    }
+    .vel{
+        margin: 10px;
+    }
+    .big{
+        color: #00ff40;
+    }
+    .big3{
+        margin: 10px;
+        padding-bottom: 20px;
+        color: coral;
+
+    }
+    .column{
+        flex-direction: column;
+    }
+    .kolonka{
+        color: coral;
+    }
+    .mobile{
+        background: url("kater.jpg");
+    }
+    .joanna{
+        flex-direction: column;
+    }
+    .diz{
+        height: 300px;
+        width: 600px;
+        margin: 0;
+    }
+    .form{
+        width: 600px;
+        height: 200px;
+        background: #f9f9f9;
+        text-align: center;
+        margin: 0;
+    }
+    .podval{
+        width: 600px;
+        height: 300px;
+        background: #292929;
+        margin: 0;
+        text-align: center;
+    }}

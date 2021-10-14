@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Lobster";
+    src: url("Lobster.ttf");
+}
+.lobster1{
+    margin-left: 50px;
+    font-family: "Lobster",Serif;
+}
+.lobster2{
+    font-family: "Lobster",Serif;
+}
+.omar2{
+    margin-left: 900px;
+    font-family: "Lobster",Serif;
+}
